@@ -1,5 +1,5 @@
-# community
-Wiki For GET
+# Community Wikipedia For GET Card
+Wikipedia For GET
 
 # Welcome to the community wiki!
 This Wikipedia is maintained by user's of GET Bank.
